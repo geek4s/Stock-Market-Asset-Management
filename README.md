@@ -1,4 +1,4 @@
-# 📊 Stock-Market-Asset-Management
+# 📊 Stock Market & Asset Management
 A terminal based stock portfolio & asset management system in C.
 This project allows users to buy/sell stocks, view risk-reward ratios, receieve stock alerts, etc.
 
@@ -22,7 +22,7 @@ This project allows users to buy/sell stocks, view risk-reward ratios, receieve 
 git clone https://github.com/yourusername/stock-management-system.git
 cd stock-management-system
 ```
-Create a file stock_database.txt in this format 
+Create a file stock_database.txt in this format:
 ```yaml
 TCS TataConsultancy 3300.50 3400.00 3200.00 ACTIVE
 INFY Infosys 1450.00 1500.00 1400.00 ACTIVE
